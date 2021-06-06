@@ -1,6 +1,6 @@
 # QCM AMM: Fiches de Mémorisation pour Smartphone
 
-L'objet de ce projet collaboratif est de créer un jeu de cartes de mémorisations **gratuites** répondant systématiquement point par point à **tous les éléments du programme** du QCM AMM en son état [sur le site du CNSNMM](https://www.cnsnmm.sports.gouv.fr/formations/amm/nouveau-cursus/preparation-probatoire) en juin 2021.
+L'objet de ce projet collaboratif est de créer un jeu de cartes de mémorisation **gratuites** répondant **systématiquement** point par point à tous les éléments du programme officiel du QCM AMM en son état [sur le site du CNSNMM](https://www.cnsnmm.sports.gouv.fr/formations/amm/nouveau-cursus/preparation-probatoire) de juin 2021.
 
 Tu peux utiliser les fiches:
 
@@ -21,7 +21,7 @@ C'est toi qui décide si tu te souviens ou non de la réponse. (Balayer vers la 
 
 Ceci est efficace parce que:
 
-- tu ne perds pas de temps à revoir des fiches que tu maitrises déjà.  
+- tu ne perds pas de temps à revoir des fiches que tu maîtrises déjà.  
 - selon des recherches, pour mémoriser une donnée, le moment optimal pour réviser cette donnée est juste avant le moment où tu l'aurais oubliée. C'est ce que l'espacement croissant tente de produire. 
 
 
@@ -33,17 +33,19 @@ Pour que ce projet soit gratuit et ouvert, les principes fondamentaux sont:
 
 2. Transparence et intégrité quant au contenu. En particulier,
   
-   - On **cite toutes les sources**, de préférence Wikipédia.
-   - On **s'interdit de pomper** la moindre virgule sur des sites actuels comme [Ma-boite-a-QCM](http://www.ma-boite-a-qcm.fr/) ou [mon-quiz.fr](https://mon-quiz.fr/).
+   - **Citer toutes les sources**, de préférence Wikipédia.
+   - **Interdiction de pomper** la moindre virgule sur des sites actuels comme [Ma-boite-a-QCM](http://www.ma-boite-a-qcm.fr/) ou [mon-quiz.fr](https://mon-quiz.fr/).
 
 
 ## Appel à Collaborateurs
 
 Au moment où je publie cette page, j'ai fini la partie _Géographie et Toponymes_ et pas mal commencé à piocher dans les huit autres sections, mais le programme du QCM est tellement fourni que dans l'intérêt d'obtenir quelque chose de complet dans un temps utile, surtout pour ceux qui présentent le proba de septembre 2021, je _crois_ que ça serait beaucoup plus efficace si on s'y mettait à plusieurs.
 
+Collaborer, d'ailleurs, c'est pas seulement créer des fiches, mais aussi les améliorer. Des fois j'ai mis trop d'informations, d'autres pas assez.
+
 ## Comment Collaborer?
 
-J'aimerais permettre de collaborer à des personnes qui ne connaissent rien en technologies web. Pour ça je crois que le plus simple sera qu'on collabore sur des fichiers partagés type Google Docs ou qu'on s'envoie des emails, mais je suis ouvert à suggestions.
+J'aimerais permettre de collaborer même à ceux qui ne connaissent rien en technologies web. Pour ça je crois que le plus simple sera qu'on collabore sur des fichiers partagés type Google Docs ou qu'on s'envoie des emails, mais je suis ouvert à suggestions.
 
 Pour les plus _techies_ on peut parler de modalités plus avancées.
 
@@ -67,7 +69,7 @@ Tout configurer prend un peu de temps, mais à mon avis ça sera une heure bien 
 - Crée un compte gratuit sur [AnkiWeb](https://ankiweb.net/account/register)
 - Installe sur PC, Mac ou Linux le [logiciel gratuit Anki](https://apps.ankiweb.net/)
 - Dans Anki, donne tes identifiants AnkiWeb
-- Va sur AnkiWeb et télécharge les fiches de mémorisation
+- Va sur AnkiWeb et télécharge les fiches de mémorisation [Prépa QCM AMM](https://ankiweb.net/shared/info/2005964455)
 - Importe les dans Anki : _Fichier / Importer_
 
 ### Étape 2 : configurer les fiches
@@ -91,7 +93,7 @@ Pour que ça tourne bien, je recommande cette configuration.
   - Quota de révisions quotidiennes : 500
   - Facilité bonus : 130%
   - Modificateur d'intervalle : 100%
-  - Intervalle maximun : 1826
+  - Intervalle maximum : 1826
   - Intervalle difficile : 120%
   - cocher "Enfouir les révisions liées jusqu'au lendemain"
 
@@ -108,9 +110,9 @@ Pour que ça tourne bien, je recommande cette configuration.
 - Sur ton smartphone Android installe [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) (gratuit), ou sur iphone installe [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (payant)
 - Synchronise Anki avec la version mobile
 
-### Étape 4 : Ajouter des cartes à étudier
+### Étape 4 : ajouter des cartes à étudier
 
-Dans la configuration ci-dessus, on n'a pas demandé à Anki de nous montrer un certain nombre de nouvelles cartes chaue jour, sinon ça peut devenir ingérable. Donc c'est à nous de demander de nouvelles cartes quand on en veut.
+Dans la configuration ci-dessus, on n'a pas demandé à Anki de nous montrer un certain nombre de nouvelles cartes chaque jour, sinon ça peut devenir ingérable. Donc c'est à nous de demander de nouvelles cartes quand on en veut.
 
 Pour faire ça:
 
@@ -122,16 +124,16 @@ Pour faire ça:
 
 Pour chaque fiche, tu dois dire si tu te rappelles bien ou mal de la réponse. Si tu dis que tu te rappelles mal, ça remet la fiche dans la pile des fiches à étudier souvent. 
 
-### Étape 5: Réviser les fiches déjà vues
+### Étape 5: réviser les fiches déjà vues
 
 Tous les jours, Anki (sur ordi ou smartphone) montre, à droite du jeu de fiches _Prépa QCM AMM_, des nombres en rouge ou en vert correspondant au nombre de fiches à réviser ce jour là.
 
 Appuie sur le nom du jeu de fiches pour commencer à réviser. 
 
 
-### Étape 6 : Actualiser les fiches
+### Étape 6 : actualiser les fiches
 
-Périodiquement, regarde sur [AnkiWeb]() s'il y a une version actualisée des cartes, ça veut probablement dire qu'on en a ajoutté. Tu peux alors les importer à nouveau dans Anki sans perdre les espaces de répétition des fiches que tu as déjà vues.
+Périodiquement, regarde sur [les fiches Prépa QCM AMM sur AnkiWeb](https://ankiweb.net/shared/info/2005964455) pour voir s'il y a une version actualisée des fiches, ça veut probablement dire qu'on en a ajouté. Tu peux alors les importer à nouveau dans Anki sans perdre les espaces de répétition des fiches que tu as déjà vues.
 
 ### Utilisation Avancée : étudier une seule catégorie (par exemple _Faune_)
 
