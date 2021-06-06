@@ -142,7 +142,7 @@ Périodiquement, regarde sur [les fiches Prépa QCM AMM sur AnkiWeb](https://ank
 
 ### Utilisation Avancée : étudier une seule catégorie (par exemple _Faune_)
 
-Je t'explique ça en vitesse mais n'aurai pas le temps de répondre à des questions détaillées. Si tu as besoin, lis le [manuel Anki](https://apps.ankiweb.net/docs/manual.fr.html) ou pose des questions sur Reddit.
+Je t'explique ça en vitesse mais n'aurai pas le temps de répondre à des questions détaillées. Si tu as besoin, lis le [manuel Anki](https://apps.ankiweb.net/docs/manual.fr.html) ou pose des questions sur le [Reddit Anki](https://www.reddit.com/r/Anki/) (en anglais).
 
 En bas de chaque carte, en gris, tu remarqueras un ou plusieurs tags, par exemple _géologie_. Dans Anki tu peux créer des jeux filtrés te permettant de réviser une seule catégorie. La définition de la recherche sera quelque chose du style:
 
