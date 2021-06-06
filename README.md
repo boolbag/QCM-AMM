@@ -4,7 +4,7 @@ L'objet de ce projet collaboratif est de créer un jeu de cartes de mémorisatio
 
 Tu peux utiliser les fiches:
 
-- sur PC ou Mac avec Anki (programme gratuit)
+- sur PC, Mac ou Linux avec Anki (programme gratuit)
 - sur Android avec [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) (application gratuite)
 - sur iphone avec (application payante)
 
@@ -62,15 +62,15 @@ J'incorporerai régulièrement le nouveau contenu sur Ankiweb pour que tous puis
 
 Tout configurer prend un peu de temps, mais à mon avis ça sera une heure bien investie. 
 
-### Étape 1: installer sur ordi
+### Étape 1 : installer sur ordi
 
 - Crée un compte gratuit sur [AnkiWeb](https://ankiweb.net/account/register)
-- Installe sur PC ou Mac le [logiciel gratuit Anki](https://apps.ankiweb.net/)
+- Installe sur PC, Mac ou Linux le [logiciel gratuit Anki](https://apps.ankiweb.net/)
 - Dans Anki, donne tes identifiants AnkiWeb
 - Va sur AnkiWeb et télécharge les fiches de mémorisation
 - Importe les dans Anki : _Fichier / Importer_
 
-### Étape 2: configurer les fiches
+### Étape 2 : configurer les fiches
 
 Dans le logiciel Anki, avant tout, je conseille de choisir le Mode Nuit dans _Outils / Préférences_.
 
@@ -79,7 +79,7 @@ Pour que ça tourne bien, je recommande cette configuration.
 1. À droite du nom _Prépa QCM AMM_, clique la roulette de configuration et choisis _Options_
 
 2. Onglet **Cartes Inédites** : 
-  - Pas (en mintes): colle ces valeurs: 2 15 1440 5760 14400
+  - Pas (en minutes): colle ces valeurs: 2 15 1440 5760 14400
   - Ordre d'apparition: Placer les cartes inédites au hasard
   - Nouvelles cartes par jour: 0
   - Intervalle de passe : 30 jours
@@ -103,12 +103,33 @@ Pour que ça tourne bien, je recommande cette configuration.
   - Traitement des pénibles: Marquer (*)
 
 
-### Étape 3: synchroniser sur smartphone
+### Étape 3 : synchroniser sur smartphone
 
 - Sur ton smartphone Android installe [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) (gratuit), ou sur iphone installe [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (payant)
 - Synchronise Anki avec la version mobile
 
-### Étape 4: actualiser
+### Étape 4 : Ajouter des cartes à étudier
+
+Dans la configuration ci-dessus, on n'a pas demandé à Anki de nous montrer un certain nombre de nouvelles cartes chaue jour, sinon ça peut devenir ingérable. Donc c'est à nous de demander de nouvelles cartes quand on en veut.
+
+Pour faire ça:
+
+- sur version PC / Mac / Linux, clique le jeu de fiches _Prépa QCM AMM_, en bas choisis _Révisions Particulières_, valide _Accroitre le nombre de cartes inédites_, en bas de la même fenêtre choisis un nombre, par exemple 20, puis valide.
+
+- sur Android, appuyer longuement sur le nom du jeu de fiches _Prépa QCM AMM_, puis prends _Étude personnalisée_, puis _Modifier la limite de nouvelles cartes d'aujourd'hui_, puis un nombre, par exemple 20.
+
+- sur iphone, je suppose que c'est similaire à Android mais ne peux pas tester, en tous cas la fonction existe.
+
+Pour chaque fiche, tu dois dire si tu te rappelles bien ou mal de la réponse. Si tu dis que tu te rappelles mal, ça remet la fiche dans la pile des fiches à étudier souvent. 
+
+### Étape 5: Réviser les fiches déjà vues
+
+Tous les jours, Anki (sur ordi ou smartphone) montre, à droite du jeu de fiches _Prépa QCM AMM_, des nombres en rouge ou en vert correspondant au nombre de fiches à réviser ce jour là.
+
+Appuie sur le nom du jeu de fiches pour commencer à réviser. 
+
+
+### Étape 6 : Actualiser les fiches
 
 Périodiquement, regarde sur [AnkiWeb]() s'il y a une version actualisée des cartes, ça veut probablement dire qu'on en a ajoutté. Tu peux alors les importer à nouveau dans Anki sans perdre les espaces de répétition des fiches que tu as déjà vues.
 
