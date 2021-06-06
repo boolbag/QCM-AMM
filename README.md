@@ -1,6 +1,12 @@
 # QCM AMM: Fiches de Mémorisation pour Smartphone
 
-L'objet de ce projet collaboratif est de créer un jeu de cartes de mémorisation **gratuites** répondant **systématiquement** point par point à tous les éléments du programme officiel du QCM AMM en son état [sur le site du CNSNMM](https://www.cnsnmm.sports.gouv.fr/formations/amm/nouveau-cursus/preparation-probatoire) de juin 2021.
+L'objet de ce projet collaboratif est de créer un jeu de cartes de mémorisation **gratuites** répondant **systématiquement** point par point à tous les éléments du programme officiel du QCM AMM en son état [sur le site du CNSNMM](https://www.cnsnmm.sports.gouv.fr/formations/amm/nouveau-cursus/preparation-probatoire) de juin 2021. On voit d'abord la question et on essaye de penser à la réponse.
+
+Voici des exemples de fiches. Il y en a d'autres en bas de page.
+
+![Alpes du Sud ](https://github.com/boolbag/QCM-AMM/blob/master/img/alpes-du-sud-400.jpg) ![Talweg](https://github.com/boolbag/QCM-AMM/blob/master/img/talweg-400.jpg) ![Polyculture vivrière](https://github.com/boolbag/QCM-AMM/blob/master/img/polyculture-400.jpg) ![Barre de Foehn](https://github.com/boolbag/QCM-AMM/blob/master/img/foehn-400.jpg)
+
+Il ne s'agit donc pas d'anciennes questions du QCM, mais de questions pour apprendre et mémoriser chacun des points du programme.
 
 Tu peux utiliser les fiches:
 
@@ -8,9 +14,7 @@ Tu peux utiliser les fiches:
 - sur Android avec [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) (application gratuite)
 - sur iphone avec (application payante)
 
-Voici des exemples de fiches. Il y en a d'autres en bas de page.
 
-![Alpes du Sud ](https://github.com/boolbag/QCM-AMM/blob/master/img/alpes-du-sud-400.jpg) ![Talweg](https://github.com/boolbag/QCM-AMM/blob/master/img/talweg-400.jpg) ![Polyculture vivrière](https://github.com/boolbag/QCM-AMM/blob/master/img/polyculture-400.jpg) ![Barre de Foehn](https://github.com/boolbag/QCM-AMM/blob/master/img/foehn-400.jpg)
 
 ## Optimiser notre mémorisation: Système de Répétition Espacée
 
