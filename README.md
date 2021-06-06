@@ -10,6 +10,7 @@ Tu peux utiliser les fiches:
 
 Voici des exemples de fiches. Il y en a d'autres en bas de page.
 
+![Alpes du Sud ](https://github.com/boolbag/QCM-AMM/blob/master/img/alpes-du-sud-400.jpg) ![Talweg](https://github.com/boolbag/QCM-AMM/blob/master/img/talweg-400.jpg) ![Polyculture vivrière](https://github.com/boolbag/QCM-AMM/blob/master/img/polyculture-400.jpg) ![Barre de Foehn](https://github.com/boolbag/QCM-AMM/blob/master/img/foehn-400.jpg)
 
 ## Optimiser notre mémorisation: Système de Répétition Espacée
 
@@ -156,5 +157,7 @@ Par commodité, voici un fichier PDF reprenant [le programme](https://www.cnsnmm
 
 - [Curriculum QCM AMM.pdf](https://www.cnsnmm.sports.gouv.fr/formations/amm/nouveau-cursus/preparation-probatoire)
 
+## More Screenshots
+![Chalp 1](https://github.com/boolbag/QCM-AMM/blob/master/img/chalp1-400.jpg) ![Chalp 2](https://github.com/boolbag/QCM-AMM/blob/master/img/chalp2-400.jpg) ![Montagnard](https://github.com/boolbag/QCM-AMM/blob/master/img/montagnard-400.jpg) ![Rhin](https://github.com/boolbag/QCM-AMM/blob/master/img/rhin-400.jpg) ![garonne](https://github.com/boolbag/QCM-AMM/blob/master/img/garonne-400.jpg) ![commensal](https://github.com/boolbag/QCM-AMM/blob/master/img/commensal-400.jpg) ![points culminants](https://github.com/boolbag/QCM-AMM/blob/master/img/points-culminants-400.jpg)
 
 
