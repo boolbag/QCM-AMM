@@ -8,6 +8,8 @@ Tu peux utiliser les fiches:
 - sur Android avec [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) (application gratuite)
 - sur iphone avec (application payante)
 
+Voici des exemples de fiches. Il y en a d'autres en bas de page.
+
 
 ## Optimiser notre mémorisation: Système de Répétition Espacée
 
@@ -37,7 +39,7 @@ Pour que ce projet soit gratuit et ouvert, les principes fondamentaux sont:
 
 ## Appel à Collaborateurs
 
-Au moment où je publie cette page, j'ai fini la partie _Géographie et Toponymes_ et commencé à piocher dans les huit autres sections, mais le programme du QCM est tellement fourni que dans l'intérêt d'obtenir quelque chose de complet dans un temps utile, surtout pour ceux qui présentent le proba de septembre 2021, je _crois_ que ça serait beaucoup plus efficace si on s'y mettait à plusieurs.
+Au moment où je publie cette page, j'ai fini la partie _Géographie et Toponymes_ et pas mal commencé à piocher dans les huit autres sections, mais le programme du QCM est tellement fourni que dans l'intérêt d'obtenir quelque chose de complet dans un temps utile, surtout pour ceux qui présentent le proba de septembre 2021, je _crois_ que ça serait beaucoup plus efficace si on s'y mettait à plusieurs.
 
 ## Comment Collaborer?
 
@@ -47,7 +49,7 @@ Pour les plus _techies_ on peut parler de modalités plus avancées.
 
 La première étape est que tu m'envoies un courriel à l'adresse suivante:
 
-- la première partie de l'adresse est _qcmamm_
+- la première partie de l'adresse est *qcm_amm* (attention au tiret inférieur)
 - la seconde partie est le symbole en forme de coquillage ou spirale présente dans toutes les adresses de courriels
 - la dernière partie est _deniv_ point _org_
 
