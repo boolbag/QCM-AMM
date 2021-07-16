@@ -590,6 +590,7 @@
 
 # 05501;, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;écologie_générale
 # Règne, Embranchement, Classe, Ordre, Famille, Genre, Espèce
+# Rembrandt classait l'ordre familial dans un genre espécial.
 
 # ┌────────────────────────────────────────────┐
 # │ Contraintes physiques du milieu montagnard │
@@ -765,7 +766,14 @@
 # Hiberner ; Hiverner ; Migration horizontale ; Migration verticale ; Changement de régime alimentaire ; Mue ; Réserves de graisse ; Réserve de nourriture
 # Connaissance des principales stratégies mises en place par la faune emblématique montagnarde pour passer la mauvaise saison
 
-# 07201;, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07201;Hiberner, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07202;Hiverner, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07203;Migration horizontale, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07204;Migration verticale, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07205;Changement de régime alimentaire, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07206;Mue, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07207;Réserves de graisse, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07208;Réserve de nourriture, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
 
 # ┌──────────────────────────────────────┐
 # │ Les régimes alimentaires de la faune │
@@ -774,7 +782,17 @@
 # Omnivore ; Carnivore ; Insectivore ; Herbivore ; Ruminant ; Piscivore ; Granivore ; Charognard ; Ruminant ; Détritivore ; Prédateur
 # Connaissance des principaux régimes alimentaires de la faune emblématique montagnarde
 
-# 07301;, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07301;Omnivore, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07302;Carnivore, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07303;Insectivore, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07304;Herbivore, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07305;Ruminant, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07306;Piscivore, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07307;Granivore, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07308;Charognard, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07309;Ruminant, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07310;Détritivore, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07311;Prédateur, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
 
 # ┌────────────────────────────────┐
 # │ Traces et modes de déplacement │
@@ -794,31 +812,31 @@
 # 07409;Reptation, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
 # 07410;, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
 
-# 07411;Cette trace, c'est quoi?<br><br><img src="">;Chamois/Isard<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07412;Cette trace, c'est quoi?<br><br><img src="">;Bouquetin<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07413;Cette trace, c'est quoi?<br><br><img src="">;Cerf<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07414;Cette trace, c'est quoi?<br><br><img src="">;Chevreuil<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07415;Cette trace, c'est quoi?<br><br><img src="">;Mouflon<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07416;Cette trace, c'est quoi?<br><br><img src="">;Sanglier<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07417;Cette trace, c'est quoi?<br><br><img src="">;Marmotte<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07418;Cette trace, c'est quoi?<br><br><img src="">;Lièvre<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07419;Cette trace, c'est quoi?<br><br><img src="">;Ecureuil<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07420;Cette trace, c'est quoi?<br><br><img src="">;Hérisson<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07421;Cette trace, c'est quoi?<br><br><img src="">;Hermine<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07411;Cette trace, c'est quoi?<br><br><img src="">;Chamois/Isard<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07412;Cette trace, c'est quoi?<br><br><img src="">;Bouquetin<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07413;Cette trace, c'est quoi?<br><br><img src="">;Cerf<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07414;Cette trace, c'est quoi?<br><br><img src="">;Chevreuil<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07415;Cette trace, c'est quoi?<br><br><img src="">;Mouflon<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07416;Cette trace, c'est quoi?<br><br><img src="">;Sanglier<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07417;Cette trace, c'est quoi?<br><br><img src="">;Marmotte<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07418;Cette trace, c'est quoi?<br><br><img src="">;Lièvre<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07419;Cette trace, c'est quoi?<br><br><img src="">;Ecureuil<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07420;Cette trace, c'est quoi?<br><br><img src="">;Hérisson<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07421;Cette trace, c'est quoi?<br><br><img src="">;Hermine<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
 
-07422;Cette trace, c'est quoi?<br><br><img src="qcm_renard.png">;Renard<br><br><b>Test de la ligne</b><br><img src="qcm_renard_ligne.png"><br>Ne coupe pas ou effleure la base des deux pelotes digitales médianes chez le renard (contrairement au chien)<br><br><b>Test de la croix</b><br><img src="qcm_renard_croix.png"><br>les deux lignes obliques tracées dans l’espace vide au centre de l’empreinte ne coupent aucun coussinet chez le renard (contrairement au chien)<br><br>Source: <a href="https://ens.puy-de-dome.fr/les-ens/foret-de-la-comte/les-empreintes-de-mammiferes.html">ENS Puy de Dôme</a>;faune_de_montagne
+07422;Cette trace, c'est quoi?<br><br><img src="qcm_renard.png">;<a target="_blank" href="https://fr.wikipedia.org/wiki/Renard">Renard</a><br>Famille des canidés, genre <a target="_blank" href="https://fr.wikipedia.org/wiki/Vulpes">vulpes</a><br><br><b>Test de la ligne</b><br><img src="qcm_renard_ligne.png"><br>Ne coupe pas ou effleure la base des deux pelotes digitales médianes chez le renard (contrairement au chien)<br><br><b>Test de la croix</b><br><img src="qcm_renard_croix.png"><br>Les deux lignes obliques tracées dans l’espace vide au centre de l’empreinte ne coupent aucun coussinet chez le renard (contrairement au chien)<br><br>Source: <a href="https://ens.puy-de-dome.fr/les-ens/foret-de-la-comte/les-empreintes-de-mammiferes.html">ENS Puy de Dôme</a>;faune_de_montagne traces
 
-# 07423;Cette trace, c'est quoi?<br><br><img src="">;Loup<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07424;Cette trace, c'est quoi?<br><br><img src="">;Ours<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07425;Cette trace, c'est quoi?<br><br><img src="">;Lynx<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07426;Cette trace, c'est quoi?<br><br><img src="">;Aigle<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07427;Cette trace, c'est quoi?<br><br><img src="">;Gypaëte<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07428;Cette trace, c'est quoi?<br><br><img src="">;Hibou<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07429;Cette trace, c'est quoi?<br><br><img src="">;Chouette<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07430;Cette trace, c'est quoi?<br><br><img src="">;Tétras<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07431;Cette trace, c'est quoi?<br><br><img src="">;Perdrix<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07432;Cette trace, c'est quoi?<br><br><img src="">;Lagopède<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
-# 07433;Cette trace, c'est quoi?<br><br><img src="">;Chocard<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07423;Cette trace, c'est quoi?<br><br><img src="">;Loup<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07424;Cette trace, c'est quoi?<br><br><img src="">;Ours<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07425;Cette trace, c'est quoi?<br><br><img src="">;Lynx<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07426;Cette trace, c'est quoi?<br><br><img src="">;Aigle<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07427;Cette trace, c'est quoi?<br><br><img src="">;Gypaëte<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07428;Cette trace, c'est quoi?<br><br><img src="">;Hibou<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07429;Cette trace, c'est quoi?<br><br><img src="">;Chouette<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07430;Cette trace, c'est quoi?<br><br><img src="">;Tétras<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07431;Cette trace, c'est quoi?<br><br><img src="">;Perdrix<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07432;Cette trace, c'est quoi?<br><br><img src="">;Lagopède<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
+# 07433;Cette trace, c'est quoi?<br><br><img src="">;Chocard<br><br><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne traces
 
 
 # ┌──────────────────────────┐
@@ -828,7 +846,28 @@
 # Mammifères : Rongeurs ; Canidés ; Félidés ; Cervidés ; Bovidés ; Ongulés ; Ruminants ; Mustélidés ; Oiseaux : Rapaces ; Galinacés ; Corvidés ; Reptiles : Serpents ; Vipère ; Couleuvre ; Lézards ; Orvets ; Tortues ; Amphibiens : Grenouilles ; Crapeaux ; Tritons ; Salamandres ; Poissons : Salmonidés
 # Classement usuel des vertébrés emblématiques montagnards
 
-# 07501;, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07501;Rongeurs, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07502;Canidés, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07503;Félidés, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07504;Cervidés, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07505;Bovidés, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07506;Ongulés, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07507;Ruminants, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07508;Mustélidés, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07509;Rapaces, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07510;Galinacés, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07511;Corvidés, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07512;Serpents, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07513;Vipère, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07514;Couleuvre, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07515;Lézards, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07516;Orvets, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07517;Tortues, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07518;Grenouilles, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07519;Crapeaux, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07520;Tritons, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07521;Salamandres, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07521;Salmonidés, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
 
 # ┌────────────────────────────┐
 # │ Classement des invertébrés │
@@ -837,7 +876,20 @@
 # Insectes : Fourmis ; Papillons ; Mouches ; Abeilles ; Libellules ; Arachnidés : Araignées ; Acariens ; Molusques : Escargots ; Limaces ; Crustacé : Ecrevisses ; Vers ; Lombrics ; Miriapodes ; Millepattes
 # Classement usuel de quelques invertébrés rencontrés en milieu montagnard
 
-# 07601;, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07601;Fourmis, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07601;Papillons, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07601;Mouches, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07602;Abeilles, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07603;Libellules, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07604;Araignées, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07605;Acariens, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07606;Escargots, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07607;Limaces, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07608;Ecrevisses, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07609;Vers, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07610;Lombrics, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07611;Miriapodes, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 07612;Millepattes, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
 
 # ╔═════════════════════════════╗
 # ║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ║
@@ -856,7 +908,49 @@
 # Conifères emblématiques : Epicéa ; Sapin ; Pin ; Mélèze
 # Feuillus emblématiques : Hêtre ; Erable ; Frêne ; Sorbier ; Aulnes
 
-# 08101;, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08101;Cette image, c'est quoi?<br><br><img src="">;Renoncule<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08102;Cette image, c'est quoi?<br><br><img src="">;Campanule<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08103;Cette image, c'est quoi?<br><br><img src="">;Gentiane<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08104;Cette image, c'est quoi?<br><br><img src="">;Orchis<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08105;Cette image, c'est quoi?<br><br><img src="">;Anémone<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08106;Cette image, c'est quoi?<br><br><img src="">;Lis<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08107;Cette image, c'est quoi?<br><br><img src="">;Aster<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08108;Cette image, c'est quoi?<br><br><img src="">;edelweiss<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08109;Cette image, c'est quoi?<br><br><img src="">;Génépi<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08110;Cette image, c'est quoi?<br><br><img src="">;Fougère<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08111;Cette image, c'est quoi?<br><br><img src="">;Prèle<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08112;Cette image, c'est quoi?<br><br><img src="">;Mousse<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08113;Cette image, c'est quoi?<br><br><img src="">;Epicéa<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08114;Cette image, c'est quoi?<br><br><img src="">;Sapin<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08115;Cette image, c'est quoi?<br><br><img src="">;Pin<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08116;Cette image, c'est quoi?<br><br><img src="">;Mélèze<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08117;Cette image, c'est quoi?<br><br><img src="">;Hêtre<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08118;Cette image, c'est quoi?<br><br><img src="">;Erable<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08119;Cette image, c'est quoi?<br><br><img src="">;Frêne<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08120;Cette image, c'est quoi?<br><br><img src="">;Sorbier<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+# 08121;Cette image, c'est quoi?<br><br><img src="">;Aulnes<br><br>Source: <a href="">wikipedia</a>;flore_de_montagne
+
+# 081;Renoncule, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 081;Campanule, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 081;Gentiane, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 081;Orchis, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 081;Anémone, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 081;Lis, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 081;Aster, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 081;edelweiss, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08122;Génépi, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08123;Fougère, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08124;Prèle, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08125;Mousse, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08126;Epicéa, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08127;Sapin, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08128;Pin, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08129;Mélèze, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08130;Hêtre, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08131;Erable, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08132;Frêne, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08133;Sorbier, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
+# 08134;Aulnes, c'est quoi?;<br><br><img src=""><br><br>Source: <a href="">wikipedia</a>;faune_de_montagne
 
 # ┌──────────────────────────┐
 # │ Les étages de végétation │
